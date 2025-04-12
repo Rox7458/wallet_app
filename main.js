@@ -11,7 +11,6 @@ const expenseBody = document.getElementById("expense-body");
 
 // ADD INCOME FORM
 const delBtn = document.getElementById("del-btn");
-const addBtn = document.getElementById("add-btn");
 const incomeInput = document.getElementById("income-input");
 const addForm = document.getElementById("add-form");
 
