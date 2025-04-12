@@ -28,6 +28,7 @@ This project showcases:
 
 Here’s a preview of the project in action:
 
+![Recording2025-04-12210702-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e1825e6a-20e3-4f91-8b02-72f59a934db8)
 
 ## Technologies Used
 
